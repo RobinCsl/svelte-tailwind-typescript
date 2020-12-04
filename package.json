@@ -13,7 +13,7 @@
     "@rollup/plugin-typescript": "^6.0.0",
     "@tsconfig/svelte": "^1.0.0",
     "autoprefixer": "^10.0.1",
-    "postcss": "^8.1.6",
+    "postcss": "^8.1.14",
     "postcss-nesting": "^7.0.1",
     "rollup": "^2.33.1",
     "rollup-plugin-livereload": "^2.0.0",
